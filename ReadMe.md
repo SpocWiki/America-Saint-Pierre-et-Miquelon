@@ -17,8 +17,8 @@ id: Saint-Pierre-et-Miquelon
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Saint-Pierre-et-Miquelon//
-markerFolder: ./Saint-Pierre-et-Miquelon///
+geojsonFolder: .//
+markerFolder: .///
 ```
 
 [name-en::Saint-Pierre-et-Miquelon] 
