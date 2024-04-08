@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-56.16667] 
-[geo-lat::46.78333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-56.16667] 
+[has_place_latitude::46.78333] 
 [name::Saint-Pierre] 
 State ::  
 Country :: Saint-Pierre-et-Miquelon] 

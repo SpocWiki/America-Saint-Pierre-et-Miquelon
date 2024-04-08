@@ -30,8 +30,10 @@ Continent :: [[North-America]]
 [Capital-Id::] 
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-56.1667] 
-[geo-lat::46.7833] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-56.1667] 
+[has_place_latitude::46.7833] 
 
 
 
