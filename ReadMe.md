@@ -36,11 +36,17 @@ Continent :: [[North-America]]
 [has_place_latitude::46.7833] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]] 
-- [[../../../../_internal/geo/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]] 
-- [[../../../../_protect/geo/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]] 
-- [[../../../../_private/geo/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]] 
-- [[../../../../_personal/geo/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]] 
-- [[../../../../_secret/geo/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.secret.md)
+

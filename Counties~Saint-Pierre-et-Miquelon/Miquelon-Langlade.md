@@ -40,11 +40,16 @@ markerFolder: ./Miquelon-Langlade/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade|Miquelon-Langlade]] 
-- [[../../../../../../_public/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.public|Miquelon-Langlade.public]] 
-- [[../../../../../../_internal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.internal|Miquelon-Langlade.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.protect|Miquelon-Langlade.protect]] 
-- [[../../../../../../_private/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.private|Miquelon-Langlade.private]] 
-- [[../../../../../../_personal/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.personal|Miquelon-Langlade.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~North/Saint-Pierre-et-Miquelon/Counties/Miquelon-Langlade.secret|Miquelon-Langlade.secret]] 
+
+### [Miquelon-Langlade.public](/_public/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.public.md) 
+
+### [Miquelon-Langlade.internal](/_internal/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.internal.md) 
+
+### [Miquelon-Langlade.protect](/_protect/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.protect.md) 
+
+### [Miquelon-Langlade.private](/_private/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.private.md) 
+
+### [Miquelon-Langlade.personal](/_personal/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.personal.md) 
+
+### [Miquelon-Langlade.secret](/_secret/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.secret.md)
 
