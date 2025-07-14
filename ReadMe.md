@@ -38,15 +38,17 @@ Continent :: [[North-America]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~North\Saint-Pierre-et-MiquelonReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.secret.md)
 

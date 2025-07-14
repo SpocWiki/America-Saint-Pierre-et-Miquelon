@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saint-Pierre.public](/_public/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-Miquelon\Saint-Pierre\CitySaint-Pierre.public.md) 
+### [Saint-Pierre](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.md) 
 
-### [Saint-Pierre.internal](/_internal/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-Miquelon\Saint-Pierre\CitySaint-Pierre.internal.md) 
+### [Saint-Pierre.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.public.md) 
 
-### [Saint-Pierre.protect](/_protect/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-Miquelon\Saint-Pierre\CitySaint-Pierre.protect.md) 
+### [Saint-Pierre.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.internal.md) 
 
-### [Saint-Pierre.private](/_private/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-Miquelon\Saint-Pierre\CitySaint-Pierre.private.md) 
+### [Saint-Pierre.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.protect.md) 
 
-### [Saint-Pierre.personal](/_personal/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-Miquelon\Saint-Pierre\CitySaint-Pierre.personal.md) 
+### [Saint-Pierre.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.private.md) 
 
-### [Saint-Pierre.secret](/_secret/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-Miquelon\Saint-Pierre\CitySaint-Pierre.secret.md)
+### [Saint-Pierre.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.personal.md) 
+
+### [Saint-Pierre.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.secret.md)
 

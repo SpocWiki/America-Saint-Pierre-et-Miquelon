@@ -41,15 +41,17 @@ markerFolder: ./Miquelon-Langlade/
 
 ## Confidential Links & Embeds: 
 
-### [Miquelon-Langlade.public](/_public/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.public.md) 
+### [Miquelon-Langlade](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.md) 
 
-### [Miquelon-Langlade.internal](/_internal/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.internal.md) 
+### [Miquelon-Langlade.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.public.md) 
 
-### [Miquelon-Langlade.protect](/_protect/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.protect.md) 
+### [Miquelon-Langlade.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.internal.md) 
 
-### [Miquelon-Langlade.private](/_private/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.private.md) 
+### [Miquelon-Langlade.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.protect.md) 
 
-### [Miquelon-Langlade.personal](/_personal/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.personal.md) 
+### [Miquelon-Langlade.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.private.md) 
 
-### [Miquelon-Langlade.secret](/_secret/\Earth\Continent\America~North\Saint-Pierre-et-Miquelon\Counties~Saint-Pierre-et-MiquelonMiquelon-Langlade.secret.md)
+### [Miquelon-Langlade.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.personal.md) 
+
+### [Miquelon-Langlade.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.secret.md)
 
