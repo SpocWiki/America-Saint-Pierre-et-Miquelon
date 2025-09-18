@@ -15,7 +15,7 @@ confidential: public
 ```leaflet
 id: Saint-Pierre-et-Miquelon
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: .//
 markerFolder: .///

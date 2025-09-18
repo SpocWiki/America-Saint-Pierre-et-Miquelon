@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint-Pierre
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint-Pierre/
 markerFolder: ./Saint-Pierre/
