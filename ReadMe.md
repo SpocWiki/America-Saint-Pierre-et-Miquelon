@@ -1,13 +1,15 @@
 ---
-location: [46.7833,-56.1667] 
+aliases:
+  - ReadMe
+location:
+  - 46.7833
+  - -56.1667
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 26997
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::PM] 
 [ISO3::SPM] 
