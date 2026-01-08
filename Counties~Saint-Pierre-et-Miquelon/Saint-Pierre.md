@@ -40,17 +40,17 @@ markerFolder: ./Saint-Pierre/
 
 ## Confidential Links & Embeds: 
 
-### [Saint-Pierre](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre|Saint-Pierre]] 
 
-### [Saint-Pierre.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.public|Saint-Pierre.public]] 
 
-### [Saint-Pierre.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.internal|Saint-Pierre.internal]] 
 
-### [Saint-Pierre.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.protect|Saint-Pierre.protect]] 
 
-### [Saint-Pierre.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.private|Saint-Pierre.private]] 
 
-### [Saint-Pierre.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.personal|Saint-Pierre.personal]] 
 
-### [Saint-Pierre.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre.secret|Saint-Pierre.secret]] 
 

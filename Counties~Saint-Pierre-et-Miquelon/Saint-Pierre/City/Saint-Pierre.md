@@ -14,17 +14,23 @@ tags:
 SpocWebEntityId: 35978
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -56.16667
+dv_has_place_latitude: 46.78333
+dv_name: Saint-Pierre
+dv_Country: Saint-Pierre-et-Miquelon]
+dv_Unknown: 32
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-56.16667] 
-[has_place_latitude::46.78333] 
-[name::Saint-Pierre] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Saint-Pierre-et-Miquelon] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
 
 ```leaflet
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saint-Pierre](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre|Saint-Pierre]] 
 
-### [Saint-Pierre.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.public|Saint-Pierre.public]] 
 
-### [Saint-Pierre.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.internal|Saint-Pierre.internal]] 
 
-### [Saint-Pierre.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.protect|Saint-Pierre.protect]] 
 
-### [Saint-Pierre.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.private|Saint-Pierre.private]] 
 
-### [Saint-Pierre.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.personal|Saint-Pierre.personal]] 
 
-### [Saint-Pierre.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Saint-Pierre/City/Saint-Pierre.secret|Saint-Pierre.secret]] 
 

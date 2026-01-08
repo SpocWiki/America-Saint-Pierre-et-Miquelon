@@ -10,9 +10,19 @@ tags:
 SpocWebEntityId: 26997
 isDeleted: false
 confidential: public
+dv_ISO2: PM
+dv_ISO3: SPM
+dv_name-en: Saint-Pierre-et-Miquelon
+dv_name-de: St. Pierre und Miquelon
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_Continent: "[[North-America]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -56.1667
+dv_has_place_latitude: 46.7833
 ---
-[ISO2::PM] 
-[ISO3::SPM] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Saint-Pierre-et-Miquelon
@@ -23,34 +33,34 @@ geojsonFolder: .//
 markerFolder: .///
 ```
 
-[name-en::Saint-Pierre-et-Miquelon] 
-[name-de::St. Pierre und Miquelon] 
-[Area-Total::0] 
-[Area-Land::0] 
-Continent :: [[North-America]]  
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-56.1667] 
-[has_place_latitude::46.7833] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/ReadMe.secret|ReadMe.secret]] 
 

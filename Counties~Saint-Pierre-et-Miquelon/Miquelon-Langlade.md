@@ -40,17 +40,17 @@ markerFolder: ./Miquelon-Langlade/
 
 ## Confidential Links & Embeds: 
 
-### [Miquelon-Langlade](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade|Miquelon-Langlade]] 
 
-### [Miquelon-Langlade.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.public|Miquelon-Langlade.public]] 
 
-### [Miquelon-Langlade.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.internal|Miquelon-Langlade.internal]] 
 
-### [Miquelon-Langlade.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.protect|Miquelon-Langlade.protect]] 
 
-### [Miquelon-Langlade.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.private|Miquelon-Langlade.private]] 
 
-### [Miquelon-Langlade.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.personal|Miquelon-Langlade.personal]] 
 
-### [Miquelon-Langlade.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/Counties~Saint-Pierre-et-Miquelon/Miquelon-Langlade.secret|Miquelon-Langlade.secret]] 
 

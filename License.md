@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License|License]] 
 
-### [License.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon/License.secret|License.secret]] 
 
