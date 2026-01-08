@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -56.16667
 dv_has_place_latitude: 46.78333
-dv_name: Saint-Pierre
+dv_has_name_: Saint-Pierre
 dv_Country: Saint-Pierre-et-Miquelon]
 dv_Unknown: 32
 ---

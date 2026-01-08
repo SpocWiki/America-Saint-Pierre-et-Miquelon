@@ -12,8 +12,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: PM
 dv_ISO3: SPM
-dv_name-en: Saint-Pierre-et-Miquelon
-dv_name-de: St. Pierre und Miquelon
+dv_has_name_en: Saint-Pierre-et-Miquelon
+dv_has_name_de: St. Pierre und Miquelon
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[North-America]]"
@@ -33,8 +33,8 @@ geojsonFolder: .//
 markerFolder: .///
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
