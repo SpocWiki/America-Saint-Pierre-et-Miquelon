@@ -392,7 +392,7 @@ Unicode_character: 🇵🇲
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Saint-Pierre-et-Miquelon/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
@@ -416,7 +416,7 @@ markerFile: [[Saint-Pierre-et-Miquelon]]
 
 ```leaflet
 id: Saint-Pierre-et-Miquelon_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
